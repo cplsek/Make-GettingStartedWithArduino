@@ -3,7 +3,7 @@ This respository contains my implementations of the examples and projects from t
 
 In addition to versions of the projects created in the Arduino IDE, I also wanted to play with diagramming using [Fritzing](http://fritzing.org/home/) and JavaScript implementations using [Johnny-Five](http://johnny-five.io/).
 
-The book is available for purchase on Amazon at http://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334
+The book is [available for purchase on Amazon](http://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334). To implement the examples in the book, I used oddWires' [Ultimate Kit with Arduino Uno](http://www.oddwires.com/the-ultimate-arduino-kit/), which is an awesome deal for newbies. 
 
 ## Project Files
 In the repository, you'll find the following areas:
@@ -12,4 +12,9 @@ In the repository, you'll find the following areas:
 * node - contain the project implementations using JavaScript (ES6) and [Johnny-Five](http://johnny-five.io/)
   * Note: The NodeJS examples run through an ExpressJS server that sets up the board and executes the example accessed via the URLs specified in the routing. Once an example is run, the NodeJS server must be restarted to switch to another example - this is because there is no way to terminate things with the Arduino.
 
+## Corresponding Book Examples
+* blinking_led: Figure 4-1, Example 4-1
+* push_led: Figure 4-5, Example 4-2, Example 4-3, Example 4-4, Example 4-5
+* fade_led: Figure 5-4, Example 5-1, Example 5-2
+* ldr_led: Figure 5-6, Example 5-3, Example 5-4, Example 5-5
 
