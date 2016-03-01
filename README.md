@@ -1,9 +1,8 @@
 # Make-GettingStartedWithArduino
-This respository contains my implementations of the examples and projects from the book *Getting Started with Arduino: The Open Source Electronics Prototyping Platform, 3rd Edition* by Massimo Banzi and Michael Shiloh. These implementations may not match those in the book exactly as I tend to play around beyond the textbook example to actually learn the content.
+This respository contains my implementations of the examples and projects from the book [*Getting Started with Arduino: The Open Source Electronics Prototyping Platform, 3rd Edition* by Massimo Banzi and Michael Shiloh](http://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334). These implementations may not match those in the book exactly as I tend to play around beyond the textbook example to actually learn the content.
 
 In addition to versions of the projects created in the Arduino IDE, I also wanted to play with diagramming using [Fritzing](http://fritzing.org/home/) and JavaScript implementations using [Johnny-Five](http://johnny-five.io/).
 
-The book is [available for purchase on Amazon](http://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334). To implement the examples in the book, I used oddWires' [Ultimate Kit with Arduino Uno](http://www.oddwires.com/the-ultimate-arduino-kit/), which is an awesome deal for newbies. 
 
 ## Project Files
 In the repository, you'll find the following areas:
@@ -17,4 +16,27 @@ In the repository, you'll find the following areas:
 * push_led: Figure 4-5, Example 4-2, Example 4-3, Example 4-4, Example 4-5
 * fade_led: Figure 5-4, Example 5-1, Example 5-2
 * ldr_led: Figure 5-6, Example 5-3, Example 5-4, Example 5-5
+
+
+## Equipment Needed
+To implement the examples in the book, I used oddWires' [Ultimate Kit with Arduino Uno](http://www.oddwires.com/the-ultimate-arduino-kit/), which is an awesome deal for newbies. Items in bold in the list below are NOT included in this kit.
+
+If you are assembling your own kit, you'll need the following for the exercises in Chapters 1-7:
+* Computer (with at least the Arduino IDE installed)
+* USB Cable
+* Arduino Uno R3
+* Breadboard
+* 3 x 3mm or 3 x 5mm LED (3 different colors)
+* 1 RGB LED (common cathode)
+* 20 male/male wires
+* 1 button or tactile on/off switch
+* 1 x 10K ohm resistor
+* 3 x 220 ohm resistor
+* Light-dependent resistor (LDR)
+* __(Optional) Old lamp that you can take apart OR glass sphere and suitable base__ - the book suggests something like the [Ikea Fado Table Lamp](http://www.ikea.com/us/en/catalog/products/70096377/)
+
+Notes: 
+* I skipped chapter 6 since I did not want to buy an Arduino Leonardo or Micro at this time.
+* The Automatic Garden Irrigation System from Chapter 8 will likely be tracked as a separate project completely since it is something I would likely use and adjust even after finishing with this book. When I get to it, I will update this file with a link to that project.
+
 
