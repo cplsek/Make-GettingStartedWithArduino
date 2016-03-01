@@ -19,7 +19,7 @@ In the repository, you'll find the following areas:
 
 
 ## Equipment Needed
-To implement the examples in the book, I used oddWires' [Ultimate Kit with Arduino Uno](http://www.oddwires.com/the-ultimate-arduino-kit/), which is an awesome deal for newbies. Items in bold in the list below are NOT included in this kit.
+To implement the examples in the book, I used oddWires' [Ultimate Kit with Arduino Uno](http://www.oddwires.com/the-ultimate-arduino-kit/), which is an awesome deal for newbies. Everything listed below is included in this kit, except for the optional lamp.
 
 If you are assembling your own kit, you'll need the following for the exercises in Chapters 1-7:
 * Computer (with at least the Arduino IDE installed)
@@ -33,7 +33,7 @@ If you are assembling your own kit, you'll need the following for the exercises 
 * 1 x 10K ohm resistor
 * 3 x 220 ohm resistor
 * Light-dependent resistor (LDR)
-* __(Optional) Old lamp that you can take apart OR glass sphere and suitable base__ - the book suggests something like the [Ikea Fado Table Lamp](http://www.ikea.com/us/en/catalog/products/70096377/)
+* (Optional) Old lamp that you can take apart OR glass sphere and suitable base - the book suggests something like the [Ikea Fado Table Lamp](http://www.ikea.com/us/en/catalog/products/70096377/)
 
 Notes: 
 * I skipped chapter 6 since I did not want to buy an Arduino Leonardo or Micro at this time.
