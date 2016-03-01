@@ -37,6 +37,6 @@ If you are assembling your own kit, you'll need the following for the exercises 
 
 Notes: 
 * I skipped chapter 6 since I did not want to buy an Arduino Leonardo or Micro at this time.
-* The Automatic Garden Irrigation System from Chapter 8 will likely be tracked as a separate project completely since it is something I would likely use and adjust even after finishing with this book. When I get to it, I will update this file with a link to that project.
+* The Automatic Garden Irrigation System from Chapter 8 will likely be tracked as a separate project since it is something I would likely use and adjust even after finishing with this book. When I get to it, I will update this file with a link to that project.
 
 
