@@ -12,7 +12,7 @@ In the repository, you'll find the following areas:
 * node - contain the project implementations using JavaScript (ES6) and [Johnny-Five](http://johnny-five.io/)
   * Note: The NodeJS examples run through an ExpressJS server that sets up the board and executes the example accessed via the URLs specified in the routing. Once an example is run, the NodeJS server must be restarted to switch to another example - this is because there is no way to terminate things with the Arduino.
 
-## Corresponding Book Examples
+### Corresponding Book Examples
 * blinking_led: Figure 4-1, Example 4-1
 * push_led: Figure 4-5, Example 4-2, Example 4-3, Example 4-4, Example 4-5
 * fade_led: Figure 5-4, Example 5-1, Example 5-2
